@@ -11,7 +11,7 @@ const jsPsych = initJsPsych({
 const subject_id = jsPsych.randomization.randomID(10);
 const filename = `${subject_id}.csv`;
 const dataPipeExperimentId = "b8FwOrsWMeXQ";
-const osfProjectId = "7f3k2";
+const osfProjectId = "gk4zj";
 
 // --- Latin square assignment ---
 // Randomly assign participant to one of 3 lists
